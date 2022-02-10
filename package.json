@@ -35,7 +35,7 @@
     "font-awesome": "^4.7.0",
     "ng2-charts": "1.6.0",
     "ngx-clipboard": "^11.1.9",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "primeflex": "^1.0.0-rc.1",
     "primeicons": "^1.0.0",
     "primeng": "^7.0.4",
